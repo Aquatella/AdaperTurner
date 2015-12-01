@@ -1,0 +1,11 @@
+E:\Оля\Documents\Visual Studio 2013\Projects\AdapterTurner\bin\Release\AdapterTurner.exe.config
+E:\Оля\Documents\Visual Studio 2013\Projects\AdapterTurner\bin\Release\AdapterTurner.exe.manifest
+E:\Оля\Documents\Visual Studio 2013\Projects\AdapterTurner\bin\Release\AdapterTurner.application
+E:\Оля\Documents\Visual Studio 2013\Projects\AdapterTurner\bin\Release\AdapterTurner.exe
+E:\Оля\Documents\Visual Studio 2013\Projects\AdapterTurner\bin\Release\AdapterTurner.pdb
+E:\Оля\Documents\Visual Studio 2013\Projects\AdapterTurner\obj\Release\AdapterTurner.TrustInfo.xml
+E:\Оля\Documents\Visual Studio 2013\Projects\AdapterTurner\obj\Release\AdapterTurner.exe.manifest
+E:\Оля\Documents\Visual Studio 2013\Projects\AdapterTurner\obj\Release\AdapterTurner.application
+E:\Оля\Documents\Visual Studio 2013\Projects\AdapterTurner\obj\Release\AdapterTurner.exe
+E:\Оля\Documents\Visual Studio 2013\Projects\AdapterTurner\obj\Release\AdapterTurner.pdb
+E:\Оля\Documents\Visual Studio 2013\Projects\AdapterTurner\obj\Release\AdapterTurner.csprojResolveAssemblyReference.cache
